@@ -21,7 +21,7 @@ A bigram model is just a lookup table — "given character A, what's the probabi
 
 ## Notebook
 
-The main notebook (`makemore_part1_bigram.ipynb`) contains:
+The main notebook (`makemore_part 1.ipynb`) contains:
 - Full bigram implementation (counting + neural net version)
 - Inline personal notes and understanding at each step
 - Loss tracking and sampling examples
